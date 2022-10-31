@@ -1,0 +1,22 @@
+.sign-in{background-color: white;
+
+ 
+    width: 90px;
+    height: 34px;
+    border-radius: 37px;
+    border: 1px solid black;
+    font-weight: 650;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+.md-flex
+{
+        background-color: #d4e9e2;
+}
+.img{
+    height: 100%;
+    align-items: center;
+
+}
+
+
